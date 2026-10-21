@@ -1,0 +1,20 @@
+sic_section,sector,all_jobs_thousand,median_hourly_pay_excl_overtime,p10_hourly_pay_excl_overtime,part_time_jobs_thousand,part_time_intensity_ashe,source_file,source_sheet_all,source_sheet_part_time
+A,"Agriculture, forestry and fishing",156.0,13.5,11.44,43.0,0.27564102564102566,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+B,Mining and quarrying,25.0,23.09,13.15,,,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+C,Manufacturing,2465.0,17.58,12.0,187.0,0.07586206896551724,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+D,Energy production and supply,122.0,24.37,14.31,5.0,0.040983606557377046,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+E,"Water supply, sewerage and waste",217.0,17.43,12.13,15.0,0.06912442396313365,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+F,Construction,1012.0,18.42,12.0,140.0,0.1383399209486166,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+G,Wholesale and retail; repair of motor vehicles,3585.0,13.63,11.44,1245.0,0.3472803347280335,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+H,Transportation and storage,1105.0,16.41,12.3,167.0,0.151131221719457,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+I,Accommodation and food service activities,1466.0,12.0,9.59,838.0,0.5716234652114598,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+J,Information and communication,1179.0,23.83,13.51,100.0,0.08481764206955046,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+K,Finance and insurance,1148.0,25.74,13.7,124.0,0.10801393728222997,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+L,Real estate,387.0,16.88,11.97,84.0,0.21705426356589147,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+M,"Professional, scientific and technical",2213.0,21.37,12.5,349.0,0.157704473565296,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+N,Administrative and support services,1582.0,14.5,11.45,549.0,0.3470290771175727,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+O,Public administration and defence; social security,1748.0,19.16,13.07,319.0,0.18249427917620137,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+P,Education,3995.0,19.63,12.26,1328.0,0.33241551939924907,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+Q,Health and social work,4625.0,16.98,11.73,1645.0,0.35567567567567565,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+R,"Arts, entertainment and recreation",605.0,13.87,11.43,284.0,0.46942148760330576,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time
+S,Other service activities,486.0,15.0,11.44,181.0,0.3724279835390947,SIC07 Industry (2) SIC2007 Table 4.6a   Hourly pay - Excluding overtime 2024.xlsx,All,Part-Time

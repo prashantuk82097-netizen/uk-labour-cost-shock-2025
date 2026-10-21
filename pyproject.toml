@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "uk-labour-cost-shock-2025"
+version = "1.0.0"
+description = "Reproducible sector-level Business Analytics study of the April 2025 UK labour-cost shock."
+requires-python = ">=3.11"
+authors = [{name = "Prashant Kumawat"}]
+license = {text = "MIT"}
+dependencies = [
+  "numpy==2.3.5",
+  "pandas==2.2.3",
+  "scipy==1.17.0",
+  "statsmodels==0.14.6",
+  "openpyxl==3.1.5",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]

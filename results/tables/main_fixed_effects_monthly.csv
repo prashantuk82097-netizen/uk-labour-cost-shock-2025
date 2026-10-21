@@ -1,0 +1,2 @@
+specification,coefficient,clustered_se,p_value,ci_low,ci_high,wild_cluster_bootstrap_p,two_way_cluster_p,n,clusters,exact_percent_effect,exact_percent_ci_low,exact_percent_ci_high
+Monthly baseline final LCEI,-0.0025680773960572514,0.010753754404979735,0.8112548405436634,-0.02364504872840649,0.018508893936291987,0.83,0.8079463628144001,688,16,-0.2564782706244162,-2.3367694879380174,1.868124521538217

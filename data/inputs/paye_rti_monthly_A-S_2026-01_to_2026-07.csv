@@ -1,0 +1,134 @@
+date,sic_section,sector,payrolled_employees
+2026-01-01,A,"Agriculture, forestry and fishing",195448
+2026-01-01,B,Mining and quarrying,42988
+2026-01-01,C,Manufacturing,2298799
+2026-01-01,D,Energy production and supply,122294
+2026-01-01,E,"Water supply, sewerage and waste",212324
+2026-01-01,F,Construction,1345735
+2026-01-01,G,Wholesale and retail; repair of motor vehicles,4253631
+2026-01-01,H,Transportation and storage,1408428
+2026-01-01,I,Accommodation and food service activities,2162162
+2026-01-01,J,Information and communication,1257519
+2026-01-01,K,Finance and insurance,1099581
+2026-01-01,L,Real estate,480082
+2026-01-01,M,"Professional, scientific and technical",2485617
+2026-01-01,N,Administrative and support services,2390713
+2026-01-01,O,Public administration and defence; social security,1584222
+2026-01-01,P,Education,3165922
+2026-01-01,Q,Health and social work,4507057
+2026-01-01,R,"Arts, entertainment and recreation",646790
+2026-01-01,S,Other service activities,553641
+2026-02-01,A,"Agriculture, forestry and fishing",195347
+2026-02-01,B,Mining and quarrying,42818
+2026-02-01,C,Manufacturing,2296948
+2026-02-01,D,Energy production and supply,122671
+2026-02-01,E,"Water supply, sewerage and waste",213075
+2026-02-01,F,Construction,1339973
+2026-02-01,G,Wholesale and retail; repair of motor vehicles,4253947
+2026-02-01,H,Transportation and storage,1410315
+2026-02-01,I,Accommodation and food service activities,2151133
+2026-02-01,J,Information and communication,1255190
+2026-02-01,K,Finance and insurance,1101274
+2026-02-01,L,Real estate,480240
+2026-02-01,M,"Professional, scientific and technical",2484981
+2026-02-01,N,Administrative and support services,2392099
+2026-02-01,O,Public administration and defence; social security,1586735
+2026-02-01,P,Education,3167794
+2026-02-01,Q,Health and social work,4508232
+2026-02-01,R,"Arts, entertainment and recreation",647043
+2026-02-01,S,Other service activities,553784
+2026-03-01,A,"Agriculture, forestry and fishing",196019
+2026-03-01,B,Mining and quarrying,42697
+2026-03-01,C,Manufacturing,2293247
+2026-03-01,D,Energy production and supply,122761
+2026-03-01,E,"Water supply, sewerage and waste",213639
+2026-03-01,F,Construction,1340097
+2026-03-01,G,Wholesale and retail; repair of motor vehicles,4250991
+2026-03-01,H,Transportation and storage,1408656
+2026-03-01,I,Accommodation and food service activities,2147224
+2026-03-01,J,Information and communication,1254163
+2026-03-01,K,Finance and insurance,1102484
+2026-03-01,L,Real estate,480388
+2026-03-01,M,"Professional, scientific and technical",2484495
+2026-03-01,N,Administrative and support services,2394923
+2026-03-01,O,Public administration and defence; social security,1587919
+2026-03-01,P,Education,3169452
+2026-03-01,Q,Health and social work,4508391
+2026-03-01,R,"Arts, entertainment and recreation",647361
+2026-03-01,S,Other service activities,552669
+2026-04-01,A,"Agriculture, forestry and fishing",194852
+2026-04-01,B,Mining and quarrying,42488
+2026-04-01,C,Manufacturing,2290830
+2026-04-01,D,Energy production and supply,123221
+2026-04-01,E,"Water supply, sewerage and waste",213590
+2026-04-01,F,Construction,1334404
+2026-04-01,G,Wholesale and retail; repair of motor vehicles,4242329
+2026-04-01,H,Transportation and storage,1413035
+2026-04-01,I,Accommodation and food service activities,2141135
+2026-04-01,J,Information and communication,1250021
+2026-04-01,K,Finance and insurance,1103808
+2026-04-01,L,Real estate,479776
+2026-04-01,M,"Professional, scientific and technical",2479932
+2026-04-01,N,Administrative and support services,2405125
+2026-04-01,O,Public administration and defence; social security,1583790
+2026-04-01,P,Education,3171489
+2026-04-01,Q,Health and social work,4513088
+2026-04-01,R,"Arts, entertainment and recreation",647075
+2026-04-01,S,Other service activities,551612
+2026-05-01,A,"Agriculture, forestry and fishing",195094
+2026-05-01,B,Mining and quarrying,42367
+2026-05-01,C,Manufacturing,2291042
+2026-05-01,D,Energy production and supply,123665
+2026-05-01,E,"Water supply, sewerage and waste",214614
+2026-05-01,F,Construction,1335134
+2026-05-01,G,Wholesale and retail; repair of motor vehicles,4237783
+2026-05-01,H,Transportation and storage,1413084
+2026-05-01,I,Accommodation and food service activities,2123007
+2026-05-01,J,Information and communication,1246460
+2026-05-01,K,Finance and insurance,1103437
+2026-05-01,L,Real estate,479731
+2026-05-01,M,"Professional, scientific and technical",2480638
+2026-05-01,N,Administrative and support services,2413638
+2026-05-01,O,Public administration and defence; social security,1581390
+2026-05-01,P,Education,3181579
+2026-05-01,Q,Health and social work,4520293
+2026-05-01,R,"Arts, entertainment and recreation",645471
+2026-05-01,S,Other service activities,549774
+2026-06-01,A,"Agriculture, forestry and fishing",194567
+2026-06-01,B,Mining and quarrying,42230
+2026-06-01,C,Manufacturing,2289379
+2026-06-01,D,Energy production and supply,123822
+2026-06-01,E,"Water supply, sewerage and waste",215346
+2026-06-01,F,Construction,1333314
+2026-06-01,G,Wholesale and retail; repair of motor vehicles,4227237
+2026-06-01,H,Transportation and storage,1412650
+2026-06-01,I,Accommodation and food service activities,2115884
+2026-06-01,J,Information and communication,1242365
+2026-06-01,K,Finance and insurance,1104297
+2026-06-01,L,Real estate,479417
+2026-06-01,M,"Professional, scientific and technical",2478320
+2026-06-01,N,Administrative and support services,2416545
+2026-06-01,O,Public administration and defence; social security,1581963
+2026-06-01,P,Education,3184685
+2026-06-01,Q,Health and social work,4520923
+2026-06-01,R,"Arts, entertainment and recreation",645929
+2026-06-01,S,Other service activities,548008
+2026-07-01,A,"Agriculture, forestry and fishing",193856
+2026-07-01,B,Mining and quarrying,42170
+2026-07-01,C,Manufacturing,2289290
+2026-07-01,D,Energy production and supply,124059
+2026-07-01,E,"Water supply, sewerage and waste",215842
+2026-07-01,F,Construction,1332272
+2026-07-01,G,Wholesale and retail; repair of motor vehicles,4222864
+2026-07-01,H,Transportation and storage,1413646
+2026-07-01,I,Accommodation and food service activities,2106885
+2026-07-01,J,Information and communication,1238633
+2026-07-01,K,Finance and insurance,1103192
+2026-07-01,L,Real estate,478767
+2026-07-01,M,"Professional, scientific and technical",2473685
+2026-07-01,N,Administrative and support services,2425448
+2026-07-01,O,Public administration and defence; social security,1583624
+2026-07-01,P,Education,3180114
+2026-07-01,Q,Health and social work,4520904
+2026-07-01,R,"Arts, entertainment and recreation",646291
+2026-07-01,S,Other service activities,546365

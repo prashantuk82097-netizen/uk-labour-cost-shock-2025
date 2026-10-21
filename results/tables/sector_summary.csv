@@ -1,0 +1,20 @@
+sic_section,sector,final_LCEI,mar2025_to_jul2026_pct,baseline_included
+I,Accommodation and food service activities,2.354660958516908,-2.9074067673590664,True
+R,"Arts, entertainment and recreation",1.1976013841543625,0.9192634649377585,True
+G,Wholesale and retail; repair of motor vehicles,0.9443636537338822,-1.9197225513863825,True
+S,Other service activities,0.7503715445239099,-0.8820322661988622,True
+N,Administrative and support services,0.7139061118600596,0.9071226853893499,True
+A,"Agriculture, forestry and fishing",0.6442930999821376,-1.2163491181851116,True
+Q,Health and social work,0.4191390375976265,0.8782687395237021,False
+P,Education,0.11980086144363056,0.02091557373620212,False
+L,Real estate,0.04562167125725658,1.725716835406721,True
+H,Transportation and storage,-0.11950314688582886,1.1858312951522398,True
+F,Construction,-0.2997358632705213,-0.5064769606005437,True
+C,Manufacturing,-0.34236578019551606,-1.5635185315773792,True
+E,"Water supply, sewerage and waste",-0.3873083605141357,3.6122832030031082,True
+O,Public administration and defence; social security,-0.5454433976592434,0.23050895516532055,False
+M,"Professional, scientific and technical",-0.5968455065053853,-0.29359496229094395,True
+J,Information and communication,-1.1127562318511217,-3.2059347106805136,True
+B,Mining and quarrying,-1.167502966666047,-5.327436409761354,True
+K,Finance and insurance,-1.2394282927835476,0.6565717393129278,True
+D,Energy production and supply,-1.378868776738418,4.759210626314148,True

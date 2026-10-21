@@ -1,0 +1,14 @@
+variable,level,definition,source_or_construction
+sic_section,sector,SIC 2007 broad section A-S,Official source / crosswalk
+sector,sector,Broad industry label,Official source / crosswalk
+median_hourly_pay_excl_overtime,sector,2024 median hourly earnings excluding overtime,ASHE 2024 revised
+p10_hourly_pay_excl_overtime,sector,2024 10th percentile hourly earnings excluding overtime,ASHE 2024 revised
+bres_part_time_intensity,sector,Part-time employees divided by total employees,BRES 2024
+wage_floor_proximity,sector,12.21 divided by sector median hourly pay,Derived
+lower_tail_exposure,sector,12.21 divided by sector P10 hourly pay,Derived
+final_LCEI,sector,Equal-weight mean of three standardised exposure components,Derived
+payrolled_employees,sector-month,Seasonally adjusted monthly PAYE payrolled employees,ONS/HMRC PAYE RTI
+log_employment,sector-month,Natural log of payrolled employees,Derived
+post_apr2025,sector-month,1 from April 2025 onward,Derived
+event_month,sector-month,Months relative to April 2025 where April=0,Derived
+employment_index_mar2025_100,sector-month,PAYE employment indexed to March 2025=100,Derived

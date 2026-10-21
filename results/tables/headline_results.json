@@ -1,0 +1,15 @@
+{
+  "panel_rows_all_19": 817,
+  "panel_rows_baseline_16": 688,
+  "months": 43,
+  "main_beta": -0.0025680773960572514,
+  "clustered_p": 0.8112548405436634,
+  "wild_cluster_p": 0.83,
+  "two_way_cluster_p": 0.8079463628144001,
+  "exact_percent_effect": -0.2564782706244162,
+  "ci_percent": [-2.3367694879380174,1.868124521538217],
+  "joint_pretrend_full_p": 8.151425248469936e-07,
+  "joint_pretrend_recent_p": 0.019515078346811262,
+  "driscoll_kraay_style_p": 0.0017458832198099308,
+  "interpretation": "No statistically detectable exposure-related PAYE employment divergence under primary clustered inference; causal interpretation remains limited by pre-policy diagnostics and covariance sensitivity."
+}

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Business Adjustment to the April 2025 UK Labour-Cost Shock: Reproducible Analysis"
+message: "If you use this code or derived analytical outputs, please cite this repository."
+type: software
+authors:
+  - family-names: Kumawat
+    given-names: Prashant
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
+repository-code: "https://github.com/prashantuk82097-netizen/uk-labour-cost-shock-2025"
+keywords:
+  - business analytics
+  - labour economics
+  - PAYE RTI
+  - National Living Wage
+  - employer National Insurance
+  - panel data
+  - event study

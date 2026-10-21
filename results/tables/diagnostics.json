@@ -1,0 +1,7 @@
+{
+  "linear_pretrend_full": {"coefficient": -0.00012735681572758045,"se": 0.0005387276805708163,"p_value": 0.813120003268044,"n": 432,"months": 27},
+  "linear_pretrend_recent": {"coefficient": -0.00011919127106242516,"se": 0.0005567931281577581,"p_value": 0.830494478244692,"n": 192,"months": 12},
+  "joint_binned_pretrend": {"full_stat": 20.10914146359002,"full_p": 8.151425248469936e-07,"full_restrictions": 9,"recent_stat": 4.086820810242786,"recent_p": 0.019515078346811262,"recent_restrictions": 4},
+  "residual_diagnostics": {"breusch_pagan_lm": 400.74606468004447,"breusch_pagan_p": 1.0266508272923541e-52,"pesaran_style_cd": -4.068244445097308,"pesaran_style_cd_p": 4.7368674396031096e-05,"mean_residual_ar1": 0.9540080827633126},
+  "alternative_covariances": {"panel_hac": {"coefficient": -0.0025680773960572514,"se": 0.0039033205034110937,"p_value": 0.5105887530600833},"driscoll_kraay_style": {"coefficient": -0.0025680773960572514,"se": 0.0008203759462619687,"p_value": 0.0017458832198099308}}
+}

@@ -1,0 +1,20 @@
+sic_section,ASHE_section,BRES_section,PAYE_sector,baseline_included,reason_if_excluded
+A,A,A,"Agriculture, forestry and fishing",Yes,
+B,B,B,Mining and quarrying,Yes,
+C,C,C,Manufacturing,Yes,
+D,D,D,Energy production and supply,Yes,
+E,E,E,"Water supply, sewerage and waste",Yes,
+F,F,F,Construction,Yes,
+G,G,G,Wholesale and retail; repair of motor vehicles,Yes,
+H,H,H,Transportation and storage,Yes,
+I,I,I,Accommodation and food service activities,Yes,
+J,J,J,Information and communication,Yes,
+K,K,K,Finance and insurance,Yes,
+L,L,L,Real estate,Yes,
+M,M,M,"Professional, scientific and technical",Yes,
+N,N,N,Administrative and support services,Yes,
+O,O,O,Public administration and defence; social security,No,Public/non-market-heavy sector retained for robustness only
+P,P,P,Education,No,Public/non-market-heavy sector retained for robustness only
+Q,Q,Q,Health and social work,No,Public/non-market-heavy sector retained for robustness only
+R,R,R,"Arts, entertainment and recreation",Yes,
+S,S,S,Other service activities,Yes,

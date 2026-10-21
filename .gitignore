@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.env
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~$*
+
+# Raw source downloads are reconstructed from official providers
+data/raw/
+data/processed/
+*.xlsx
+*.xls
+
+# Local working documents
+private/
+notes/

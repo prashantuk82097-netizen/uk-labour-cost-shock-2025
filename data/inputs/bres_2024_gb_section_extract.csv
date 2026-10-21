@@ -1,0 +1,20 @@
+sic_section,sector,total_employees,full_time_employees,part_time_employees,part_time_intensity,geography,reference_year,source
+A,"Agriculture, forestry and fishing",203000,152000,51000,0.2512315270935961,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+B,Mining and quarrying,47000,45000,1500,0.031914893617021274,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+C,Manufacturing,2282000,2073000,209000,0.0915863277826468,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+D,Energy production and supply,127000,116000,12000,0.09448818897637795,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+E,"Water supply, sewerage and waste",228000,210000,19000,0.08333333333333333,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+F,Construction,1564000,1337000,227000,0.14514066496163683,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+G,Wholesale and retail; repair of motor vehicles,4284000,2558000,1726000,0.40289449112978526,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+H,Transportation and storage,1551000,1257000,294000,0.1895551257253385,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+I,Accommodation and food service activities,2440000,1027000,1413000,0.5790983606557377,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+J,Information and communication,1418000,1249000,169000,0.11918194640338504,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+K,Finance and insurance,1064000,935000,129000,0.1212406015037594,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+L,Real estate,593000,450000,143000,0.2411467116357504,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+M,"Professional, scientific and technical",2910000,2408000,502000,0.1725085910652921,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+N,Administrative and support services,2691000,1745000,946000,0.35154217762913414,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+O,Public administration and defence; social security,1534000,1222000,312000,0.2033898305084746,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+P,Education,2703000,1552000,1151000,0.42582315945246024,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+Q,Health and social work,4448000,2731000,1717000,0.3860161870503597,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+R,"Arts, entertainment and recreation",779000,360000,419000,0.5378690629011553,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access
+S,Other service activities,610000,369000,242000,0.39672131147540984,Great Britain,2024,Nomis / ONS Business Register and Employment Survey open access

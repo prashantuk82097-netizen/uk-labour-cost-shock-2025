@@ -1,0 +1,6 @@
+id,dataset,vintage,geography,frequency,role,retrieval_date,local_versioned_file,official_url
+S1,ASHE Table 4,2024 revised,United Kingdom,Annual,LCEI wage distribution inputs,2026-10-21,data/inputs/ashe_2024_revised_section_extract.csv,https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/industry2digitsicashetable4
+S2,BRES open access,2024,Great Britain,Annual,LCEI part-time intensity,2026-10-21,data/inputs/bres_2024_gb_section_extract.csv,https://www.nomisweb.co.uk/datasets/newbres6pub
+S3,PAYE RTI seasonally adjusted,September 2026 publication vintage,United Kingdom,Monthly,Primary employment outcome,2026-10-21,data/inputs/paye_rti_monthly_A-S_2023-01_to_2026-07.csv,https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/realtimeinformationstatisticsreferencetableseasonallyadjusted/current
+S4,Decision Maker Panel,October/Q4 2025,United Kingdom,Survey,Adjustment-channel triangulation,2026-10-21,,https://www.bankofengland.co.uk/decision-maker-panel/2025/october-2025
+S5,Business Insights and Conditions Survey,4 June 2026,United Kingdom,Fortnightly survey,Adjustment-channel triangulation,2026-10-21,,https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/businessinsightsandimpactontheukeconomy/4june2026

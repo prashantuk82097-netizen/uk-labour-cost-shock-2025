@@ -1,0 +1,6 @@
+method,coefficient,se,p_value,note
+Sector-clustered,-0.0025680773960572514,0.010753754404979735,0.8112548405436634,Primary inference
+Wild-cluster bootstrap,-0.0025680773960572514,,0.83,999 Rademacher cluster bootstrap; p-value only
+Two-way cluster: sector + month,-0.0025680773960572514,0.01056490649936064,0.8079463628144001,Cross-sectional time clustering sensitivity
+Panel-HAC (maxlag 3),-0.0025680773960572514,0.0039033205034110937,0.5105887530600833,Alternative covariance
+Driscoll-Kraay-style (maxlag 3),-0.0025680773960572514,0.0008203759462619687,0.0017458832198099308,Contradictory significant covariance sensitivity
